@@ -166,3 +166,7 @@ ON t1.idVendedor = t2.idVendedor
 GROUP BY t1.idVendedor
 
 ORDER BY qtdePedido DESC
+
+-- COMMAND ----------
+
+
